@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá, me chamo Jezer P. Rocha 👋
+    Tenho 24 anos, estundante de ADS.
+    
+    Aprendendo:
+    HTML5
+    CSS3
+    Boostrap
+    JavaScript
 
 <!--
 **JezerRch/JezerRch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

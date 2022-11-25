@@ -1,13 +1,13 @@
 ### Olá, me chamo Jezer P. Rocha 👋
     Tenho 24 anos, estundante de ADS.
     
-    Aprendendo:
-    HTML5
-    CSS3
-    Boostrap
-    JavaScript
-    PHP 7
-    MySQL
+    Skills..
+    Experiência em HTML5
+    Experiência em CSS3
+    Conhecimento em Boostrap
+    Conhecimento em JavaScript
+    Conhecimento em PHP 7
+    Conhecimento em MySQL
 
 <!--
 **JezerRch/JezerRch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

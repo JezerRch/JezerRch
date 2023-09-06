@@ -7,8 +7,12 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JezerRch&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <a href="https://github.com/hadsonmartins%22%3E
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hadsonmartins&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadsonmartins&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
 
 ###
 

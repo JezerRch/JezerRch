@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">🖥️ Sou estudante em Analise e Desenvolvimente de Sistemas na UNIVAG - Centro Universitário de Várzea Grande.<br><br>Atuando como estagiário em front-end na Facilita Certificado Digital, estou adquirindo conhecimentos teóricos e práticos para desenvolver aplicações web,  tenho a oportunidade de trabalhar em projetos desafiadores, participando de reuniões de planejamento, colaborando com o design de interfaces e implementando funcionalidades interativas.</p>
+<p align="center">🖥️ Sou estudante em Analise e Desenvolvimente de Sistemas na UNIVAG - Centro Universitário de Várzea Grande</p>
 
 ###
 
